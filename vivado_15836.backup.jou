@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Mar 14 14:13:39 2024
+# Process ID: 15836
+# Current directory: C:/Users/suziy/Desktop/dav
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17820 C:\Users\suziy\Desktop\dav\dav.xpr
+# Log file: C:/Users/suziy/Desktop/dav/vivado.log
+# Journal file: C:/Users/suziy/Desktop/dav\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/suziy/Desktop/dav/dav.xpr
+update_compile_order -fileset sources_1
